@@ -21080,3 +21080,17 @@ skills:
   - business
   - analytics
   - productivity
+- id: yanniskiefer-harvey-specter
+  title: SPECTER - Negotiation and Difficult Conversations
+  description: Prepare negotiations and difficult conversations with verified facts, clear boundaries, relationship-aware tone, and original worked examples. Includes a ready-to-use Agent Skill; no account actions are performed.
+  author: Yannis Kiefer
+  author_url: https://github.com/YannisKiefer
+  author_github: YannisKiefer
+  license: MIT
+  license_url: https://raw.githubusercontent.com/YannisKiefer/harvey-specter/main/LICENSE
+  skill_url: https://github.com/YannisKiefer/harvey-specter/tree/main/skills/harvey-specter
+  skill_download_url: https://github.com/YannisKiefer/harvey-specter/releases/download/v1.0.0/harvey-specter-v1.0.0.zip
+  tags:
+  - business
+  - writing
+  - productivity
